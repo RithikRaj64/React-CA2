@@ -15,7 +15,7 @@ function ColorChanger() {
             sx={{
                 width: 350,
                 height: 450,
-                borderRadius: 25
+                borderRadius: 35
             }}
         >
             <div className='conts'>
